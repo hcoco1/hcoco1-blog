@@ -3,6 +3,7 @@ layout: post
 title:  "JavaScript Dynamic List: The DOM Manipulation"
 date:   2023-05-01
 categories: coding
+comments: true
 ---
 ### DOM Manipulation
 

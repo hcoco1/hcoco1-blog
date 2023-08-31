@@ -3,6 +3,7 @@ layout: post
 title: "Building aggregate functions In SQLAlchemy"
 date:   2023-08-27
 categories: coding
+comments: true
 ---
 In this tutorial, I will use SQLAlchemy to perform aggregate operations on a database containing information about states, counties, cities, and government facilities. I will describe briefly the process of building a project to use aggregate functions.
 

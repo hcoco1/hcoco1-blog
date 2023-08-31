@@ -3,6 +3,7 @@ layout: post
 title:  "Creating a Dynamic Table in React Using react-table (v7.8.0)."
 date:   2023-07-01
 categories: coding
+comments: true
 ---
 
 In web development, tables are commonly used to display structured data in a tabular format. React provides various tools and libraries to create interactive and dynamic tables. One such library is react-table, which simplifies developing and managing tables in React.
