@@ -58,6 +58,6 @@ minima:
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: https://hcoco1.disqus.com/
+    shortname: hcoco1
 
 url: https://hcoco1-blog.onrender.com/
