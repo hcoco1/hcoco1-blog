@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<img src="/assets/images/hcoco1.jpg" alt="Ivan's photo" class="profile-image">
 
 
-[jekyll-organization]: https://github.com/jekyll
+<div>
+    <h2>Ivan Arias</h2>
+    <p>Software Engineer Student | Full Stack Development with Flask and React | Geologist |</p>
+    <p>Hi! My name is Ivan Arias, and I am a student of a Software Engineer. I am learning to build front-ends with ReactJS. Also, I am gaining a thorough understanding of Flask to create JSON APIs and then combine them with a scalable React front end, resulting in slick, functional, and interactive full-stack applications. I have a background in geological modeling and mapping software (GIS). I want to apply all my experience and the tech skill set I am building at Flatiron School to help develop modern web applications.</p>
+</div>
