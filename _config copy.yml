@@ -1,0 +1,81 @@
+title: Blog Site
+author:
+  name: Ivan Arias
+  email: hcoco1@hotmail.com
+  twitter: hcoco1
+  github: hcoco1
+
+
+twitter:
+  username: hcoco1
+  card: summary
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  Ivan Arias Blog Site is dedicated  to share my knowledge and experience in the software development world.
+
+# Build settings
+
+theme: minima
+logo: /assets/images/logo.png
+tagline: Software Engineer Student | Full Stack Development with Flask and React | Geologist |
+social:
+  name: Ben Balter
+  links:
+    - https://twitter.com/hcoco1
+    - https://www.linkedin.com/in/arias-ivan-hcoco1
+    - https://github.com/hcoco1
+    
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme-specific settings
+minima:
+  skin: auto
+  
+minima:
+
+
+  # Minima date format.
+  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+  #
+  # date_format: "%b %-d, %Y"
+
+  # Generate social links in footer.
+  #
+   social_links:
+     - { platform: devto,          user_url: "https://dev.to/hcoco1" }
+  #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
+  #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
+  #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
+     - { platform: github,         user_url: "https://github.com/hcoco1" }
+  #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+  #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
+  #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
+     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/arias-ivan-hcoco1/" }
+  #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
+  #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
+  #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
+  #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
+     - { platform: twitter,        user_url: "https://twitter.com/hcoco1" }
+     - { platform: youtube,        user_url: "https://www.youtube.com/@hcoco1/videos" }
+
+# If you want to link only specific pages in your header, uncomment this and add the path to the pages in
+# order as they should show up.
+#
+# header_pages:
+#   - about.md
+
+# Set to `true` to show excerpts on the homepage.
+#
+# show_excerpts: false
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: hcoco1
+
+url: https://hcoco1-blog.onrender.com
