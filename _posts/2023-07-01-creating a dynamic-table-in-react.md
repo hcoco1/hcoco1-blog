@@ -31,7 +31,7 @@ npm install react-table
 In this step, we'll fetch data from an API and store it in the parent component's state. In this code, we define the App component as the parent component. It fetches data from the API using the fetchData function when the component mounts. The fetched data is stored in the data state variable and passed to the Table component as a prop.
 
 ```
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect } from 'react';
 
 const App = () => {
   const [data, setData] = useState([]);
