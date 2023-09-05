@@ -1,5 +1,11 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.page-heading, .post-title {
+  margin: 0;
+  padding: 0;
+}
+
 .profile-image {
     display: block;
     margin-left: auto;
@@ -18,8 +24,9 @@
 .site-header .site-logo {
   width: 100px;
   height: auto;
-  margin-right: 20px;
+  margin-right: 5px;
 }
+
 
 .site-header .site-title {
   flex: 1;
@@ -60,3 +67,9 @@
   margin-bottom: 10px;  /* Adjust as needed */
   padding-top: 5px;
 }
+
+.site-title {
+  float: none; /* Override the float property */
+  margin-left:-50px;  // Or adjust to a smaller value
+}
+
