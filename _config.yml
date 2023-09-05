@@ -32,6 +32,9 @@ plugins:
 # SEO Enhancements
 permalink: /:title/
 
+excerpt_separator: "<!--more-->"
+
+
 # Theme-specific settings
 minima:
   skin: auto

@@ -26,4 +26,37 @@
   text-align: center;
 }
 
-  
+
+
+.card-img-top {
+  height: 150px;  /* Adjust as needed */
+  object-fit: cover;
+}
+
+.col {
+  padding-left: 30px;  /* Adjust as needed */
+  padding-right: 30px;
+  margin-bottom: 20px;  /* Adjust this value to increase or decrease the vertical gap */
+}
+
+.card-body {
+  overflow-y: auto;  /* Adds a scrollbar if the content overflows */
+}
+
+.card-date {
+  font-size: 0.9rem;  /* Adjust as needed */
+  color: #777;  /* Adjust as needed */
+}
+
+
+.post-link {
+  color: #000000;
+  text-decoration: none;
+}
+
+.card-subtitle {
+  font-size: 0.85rem;  /* Adjust as needed */
+  color: #a7751e;  /* Adjust as needed */
+  margin-bottom: 10px;  /* Adjust as needed */
+  padding-top: 5px;
+}

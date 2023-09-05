@@ -1,10 +1,17 @@
 ---
 layout: post
-title:  "JavaScript Dynamic List: The DOM Manipulation"
+title:  "JS Dynamic List"
 date:   2023-05-01
 categories: coding
 comments: true
+thumbnail: "/assets/images/js.png"
+subtitle: "Since I had difficulty showing a list of items..."
 ---
+
+<!--more-->
+
+
+
 ### DOM Manipulation
 
 Since I had difficulty showing a list of items in the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction" target="_blank">Document Object Model (DOM)</a> in my final phase-1 Project. I decided to blog about DOM manipulation using Javascript.
