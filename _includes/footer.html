@@ -2,7 +2,6 @@
   <data class="u-url" href="{{ " /" | relative_url }}"></data>
 
   <div class="wrapper">
-
     <div class="footer-col-wrapper">
       <div class="footer-col">
         <p class="feed-subscribe">
@@ -15,7 +14,8 @@
         {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-          <li class="p-name"><a href="https://hcoco1-site.vercel.app/" target="_blank">{{ site.author.name | escape }}</a></li>
+          <li class="p-name"><a href="https://hcoco1-site.vercel.app/" target="_blank">{{ site.author.name | escape
+              }}</a></li>
 
           {% endif -%}
           {% if site.author.email -%}

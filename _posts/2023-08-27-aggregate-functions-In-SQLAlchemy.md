@@ -95,7 +95,7 @@ environment and also creates an alembic.ini file with the configuration options
             cd lib
             pipenv install
             pipenv shell
-            pip install sqlalchemy Alembic click
+            pipenv install sqlalchemy Alembic click
             alembic init migrations
     ```
 
