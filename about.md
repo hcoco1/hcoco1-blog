@@ -20,7 +20,7 @@ permalink: /about/
 
 <script>
     document.getElementById('redirectDiv').addEventListener('click', function() {
-        window.location.href = 'https://hcoco1-site.vercel.app/';
+        window.location.href = 'https://arias-ivan-hcoco1.vercel.app/';
     });
 </script>
 
