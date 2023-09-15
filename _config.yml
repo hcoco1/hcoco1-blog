@@ -10,8 +10,7 @@ twitter:
   card: summary
 
 description: >
-  This site serves as a platform to chronicle my adventures and expertise as a Software Engineer Student. Diving deep into the realm of Full Stack Development, I've honed my skills particularly in Flask and React. Beyond the digital sphere, my experiences as a Geologist have also shaped my perspective. Here, I look forward to sharing the wealth of knowledge and unique experiences I've gathered from both worlds.
-
+  This site serves as a platform to chronicle my adventures and expertise as a Software Engineer Student. Diving deep into the realm of Full Stack Development, I will be sharing my experiences and knowledge with the world.
 # Build settings
 theme: minima
 logo: /assets/images/logo.png
