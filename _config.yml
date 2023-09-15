@@ -1,4 +1,4 @@
-title: My Blog
+title: Ivan Arias Blog 
 author:
   name: Ivan Arias
   email: hcoco1@hotmail.com
@@ -10,12 +10,12 @@ twitter:
   card: summary
 
 description: >
-  This Site is dedicated to share my knowledge and experience in the software development world.
+  This site serves as a platform to chronicle my adventures and expertise as a Software Engineer Student. Diving deep into the realm of Full Stack Development, I've honed my skills particularly in Flask and React. Beyond the digital sphere, my experiences as a Geologist have also shaped my perspective. Here, I look forward to sharing the wealth of knowledge and unique experiences I've gathered from both worlds.
 
 # Build settings
 theme: minima
 logo: /assets/images/logo.png
-tagline: Software Engineer Student | Full Stack Development with Flask and React | Geologist |
+tagline: hcoco1 Ivan Arias Blog Site | This Site is dedicated to share my knowledge and experience in the software development world. 
 lang: en # Assuming your site is primarily in English
 
 social:
@@ -49,4 +49,4 @@ minima:
 disqus:
   shortname: hcoco1
 
-url: https://hcoco1-blog.onrender.com
+url: https://hcoco1-blog.onrender.com/

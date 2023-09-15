@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Changing careers"
+canonical_url: 'https://hcoco1-blog.onrender.com/changing-careers/'
 date:   2023-02-01
 categories: world
 comments: true

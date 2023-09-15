@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Aggregate functions"
+canonical_url: 'https://hcoco1-blog.onrender.com/aggregate-functions-In-SQLAlchemy/'
 date:   2023-08-27
 categories: coding
 comments: true
 thumbnail: "/assets/images/sqlalchemy.jpeg"
 subtitle: "In this tutorial, I will use SQLAlchemy..."
 ---
+
 
 <!--more-->
 
