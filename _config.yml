@@ -14,7 +14,7 @@ description: >
 # Build settings
 theme: minima
 logo: /assets/images/logo.png
-tagline: hcoco1 Ivan Arias Blog Site | This Site is dedicated to share my knowledge and experience in the software development world. 
+tagline: Ivan Arias Blog | This Site is dedicated to share my knowledge and experience in the software development world. 
 lang: en # Assuming your site is primarily in English
 
 social:
