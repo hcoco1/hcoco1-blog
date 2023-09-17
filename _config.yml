@@ -40,7 +40,7 @@ minima:
   social_links:
     - { platform: devto,          user_url: "https://dev.to/hcoco1" }
     - { platform: github,         user_url: "https://github.com/hcoco1" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/arias-ivan-hcoco1/" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/arias-ivan-hcoco1" }
     - { platform: twitter,        user_url: "https://twitter.com/hcoco1" }
     - { platform: youtube,        user_url: "https://www.youtube.com/@hcoco1/videos" }
 
@@ -48,4 +48,4 @@ minima:
 disqus:
   shortname: hcoco1
 
-url: https://hcoco1-blog.onrender.com/
+url: https://hcoco1-blog.onrender.com
