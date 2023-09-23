@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phase 4 Code Challenge"
+title: "Phase 4 Study Guide"
 canonical_url: 'https://hcoco1-blog.onrender.com/phase-4-challenge/'
 date:   2023-09-21
 categories: code
@@ -15,9 +15,6 @@ subtitle: "Study Guide for the Flatiron..."
 Welcome to my comprehensive study guide designed to help you master Flask! This guide is divided into multiple modules, each focusing on a specific topic related to Flask, such as routing, database interactions, API development, and more.
 
 Each module includes a **Study Goal** to clarify what you should aim to learn, **Topics to Cover** that list the key points you'll focus on, and a **Lab** exercise to apply what you've learned.
-
-Feel free to follow along, and let's start our code challenge.!
-
 
 
 ## Flask Routing and Views Lab
