@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Building a Navigation Bar using React Router
+canonical_url: 'https://hcoco1-blog.onrender.com/Phase-5-Final-Project-Blog/'
 date: 2023-10-07
 categories: coding
 comments: true
 thumbnail: "/assets/images/flask-react-python.png"
-permalink: 
 subtitle: "So, this is it!, the final project..."
 ---
 
