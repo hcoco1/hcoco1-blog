@@ -27,17 +27,16 @@ React Router is a popular library for routing in React applications. It allows y
 
 A typical React application passes data top-down (parent to child) via props. Still, such usage can be cumbersome for certain types of props (e.g., locale preference, UI theme) that are required by many components within an application. Context provides a way to share values like these between components without explicitly passing a prop through every level of the tree. (react docs)
 
-## Process to build a powerful Navigation Bar 
+## Process to build a powerful Navigation Bar
 
 (You must have React Router 6 installed in your system.)
 
 ### Overview
 
 * Setting up a flask backend (server-side) and a  React frontend (client-side)
-    * install dependencies
-    * create database, migrations version, etc.
-
-
+  * install dependencies
+  * create database, migrations version, etc.
+  * 
 <a href="https://hcoco1-blog.onrender.com/aggregate-functions-In-SQLAlchemy/" target="_blank">Read more...</a>
 
 * for instance, something like this:
@@ -167,7 +166,6 @@ def logout():
 
 The provided code defines routes for user registration, login, and logout in a Flask application. The routes interact with a database to manage user data and use sessions to maintain user authentication status.
 
-
 ### Creating the Navigation Bar Component
 
 The NavBar.jsx component serves as the backbone of our navigation system. It's structured to provide a clear hierarchy of the website's main sections, ensuring users can quickly find what they want.
@@ -180,7 +178,7 @@ Before creating your component, consider what behavior you expect from the navba
 * and more...
 
 We should use react-router and useContext to achieve these goals. The given component navbar.jsx is a little sample of a Full Stack App (<a href="https://phase5-app-tyia.onrender.com/" target="_blank">hcoco1-e-commerce</a>). For the sake of this post, I will use useContex, but you can easily manage the navbar state using a local state hook (useState)
-<a href="https://legacy.reactjs.org/docs/context.html#when-to-use-context" target="_blank">When to use Context?</a> 
+<a href="https://legacy.reactjs.org/docs/context.html#when-to-use-context" target="_blank">When to use Context?</a>
 
 <a href="https://www.w3schools.com/react/react_usecontext.asp" target="_blank">React useContext Hook</a>
 
@@ -338,9 +336,10 @@ function App() {
 }
 
 export default App;
+
 ```
 
-All components wrapped inside the <ProtectedRoute></ProtectedRoute> will be available only after the user login. The components <UserDetails />, <UserOrders />, <OrderDetail />, and <ProductDetail /> require authentication to access them.
+All components wrapped inside the ProtectedRoute will be available only after the user login. The components UserDetails, UserOrders, OrderDetail, and ProductDetail require authentication to access them.
 
 Once the routes are protected, we can use it with a conditional rendering in the navbar to achieve a fancy result.(<a href="https://www.w3schools.com/react/react_conditional_rendering.asp" target="_blank">React Conditional Rendering</a>)
 
@@ -489,6 +488,7 @@ function NavigationBar({ onLogout }) {
 }
 
 export default NavigationBar;
+
 ```
 
 <a href="https://reactrouter.com/en/6.16.0/components/nav-link#navlink" target="_blank">The NavLink component</a>
