@@ -22,6 +22,6 @@ First, I decided to change careers because my long-term goals have changed. I wa
 
 Second, after several years of working with databases and geostatistical modeling software, I realized that my current passion is working with programming languages, software, and websites. As a result, I decided to pursue a software development career.
 
-In brief, I'm changing careers because my long-term goals have changed, and I realized that my passion is working with programming languages, software, and websites. I have studied at Flatiron School for about a month and learned basic HTML, CSS, and JavaScript concepts and methods. I'll try my best.
+>In brief, I'm changing careers because my long-term goals have changed, and I realized that my passion is >working with programming languages, software, and websites. I have studied at Flatiron School for about a month >and learned basic HTML, CSS, and JavaScript concepts and methods. I'll try my best.
  
 Ivan Arias
