@@ -20,7 +20,7 @@ permalink: /about/
 
 <script>
     document.getElementById('redirectDiv').addEventListener('click', function() {
-        window.location.href = 'https://hcoco1-site.onrender.com/';
+        window.location.href = 'https://hcoco1.com';
     });
 </script>
 
