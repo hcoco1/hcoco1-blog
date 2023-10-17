@@ -148,4 +148,4 @@ Laurence Svekis (n.d.-c). https://www.youtube.com/@LaurenceSvekisCourses/videos
 
 kootkot. (2022, February 5). ✅ JavaScript Array | How to Display Array Elements? | Real World Coding Example [Video]. YouTube. https://www.youtube.com/watch?v=MkE2_YWnJbo
 
-[Visit my Site](https://hcoco1.github.io/hcoco1-site-bootstrap/)
+[Visit my Site](https://hcoco1.com)
