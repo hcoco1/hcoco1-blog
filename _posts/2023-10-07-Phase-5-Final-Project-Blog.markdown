@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building a Navigation Bar using React Router
-canonical_url: 'https://hcoco1-blog.onrender.com/Phase-5-Final-Project-Blog/'
+canonical_url: 'https://hcoco1.blog/Phase-5-Final-Project-Blog/'
 date: 2023-10-07
 categories: coding
 comments: true
@@ -509,7 +509,7 @@ The navigation bar dynamically adjusts its content based on the user's authentic
 
 * Carnes, B. (2019). Protected Routes in React using React Router. freeCodeCamp.org. https://www.freecodecamp.org/news/protected-routes-using-react-router/
 
-* Arias, I. (2023, August 27). Aggregate functions. Ivan Arias Blog. https://hcoco1-blog.onrender.com/aggregate-functions-In-SQLAlchemy/
+* Arias, I. (2023, August 27). Aggregate functions. Ivan Arias Blog. https://hcoco1.blog/aggregate-functions-In-SQLAlchemy/
 
 * Context – react. (n.d.). React. https://legacy.reactjs.org/docs/context.html
 
