@@ -1,27 +1,39 @@
-name: Continuous Integration
+name: Build and Deploy Jekyll
+
 on:
   push:
-    branches:
-      - master
+    branches: [ "main" ]  # or your main development branch
   pull_request:
-    branches:
-      - master
+    branches: [ "main" ]
+
 jobs:
-  build:
-    name: "Test with Jekyll ${{ matrix.jekyll }}"
-    runs-on: "ubuntu-latest"
-    strategy:
-      matrix:
-        jekyll: ["~> 3.9", "~> 4.2"]
-    env:
-      JEKYLL_VERSION: ${{ matrix.jekyll }}
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-      - name: Set Up Ruby 2.7
+      # 1. Check out the code
+      - uses: actions/checkout@v3
+
+      # 2. Set up Ruby
+      - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
-          bundler-cache: true
-      - name: Run tests
-        run: script/cibuild
+          ruby-version: '3.0'    # or '3.1', etc.
+
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+
+      # 4. Build the Jekyll site
+      - name: Build site
+        run: bundle exec jekyll build
+
+      # 5. Deploy to GitHub Pages (push the _site folder to the gh-pages branch)
+      - name: Deploy to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
