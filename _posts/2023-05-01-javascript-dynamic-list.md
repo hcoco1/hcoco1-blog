@@ -128,11 +128,6 @@ The last code showed us the power of javascript to manipulate the DOM, creating,
 
 
 
-Try it  Yourself
-
-{% codesandbox 5nmgnt %}
-
-
 
 
 References:

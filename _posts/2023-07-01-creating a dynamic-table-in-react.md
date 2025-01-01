@@ -197,8 +197,7 @@ To run the application, open a terminal, navigate to the project directory, and 
 npm start
 ```
 
-[Try yourself](https://codesandbox.io/s/creating-a-dynamic-table-in-react-using-react-table-mm2tpd?file=/src/styles.css) Basic Table:
-{% codesandbox creating-a-dynamic-table-in-react-using-react-table-mm2tpd %}
+
 
 
 Let's add another functionality: the sortBy hook.
@@ -251,9 +250,7 @@ Summary.
 In this tutorial, we built a table using a react-table library and implemented hooks like sortBy. Using React Hooks effectively is essential for optimizing the performance and maintaining a clean and efficient codebase in React applications.
 
 
-[Try yourself](https://codesandbox.io/s/creating-a-dynamic-table-in-react-sort-func-98rc35?file=/src/styles.css:0-339) Table with Sort functionality:
 
-{% codesandbox creating-a-dynamic-table-in-react-sort-func-98rc35 %}
 
 
 
