@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aggregate functions"
-canonical_url: 'https://hcoco1.blog/aggregate-functions-In-SQLAlchemy/'
+canonical_url: 'https://hcoco1.github.io/hcoco1-blog/aggregate-functions-In-SQLAlchemy/'
 date:   2023-08-27
 categories: coding
 comments: true

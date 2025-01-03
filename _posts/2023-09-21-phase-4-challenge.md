@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Phase 4 Study Guide"
-canonical_url: 'https://hcoco1.blog/phase-4-challenge/'
+canonical_url: 'https://hcoco1.github.io/hcoco1-blog/phase-4-challenge/'
 date:   2023-09-21
 categories: code
 comments: true

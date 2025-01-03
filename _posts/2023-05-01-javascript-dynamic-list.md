@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "JS Dynamic List"
-canonical_url: 'https://hcoco1.blog/javascript-dynamic-list/'
+canonical_url: 'https://hcoco1.github.io/hcoco1-blog/javascript-dynamic-list/'
 date:   2023-05-01
 categories: coding
 comments: true

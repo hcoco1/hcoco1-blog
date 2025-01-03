@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dynamic Tables in React"
-canonical_url: 'https://hcoco1.blog/creating-a-dynamic-table-in-react/'
+canonical_url: 'https://hcoco1.github.io/hcoco1-blog/creating-a-dynamic-table-in-react/'
 date:   2023-07-01
 categories: coding
 comments: true

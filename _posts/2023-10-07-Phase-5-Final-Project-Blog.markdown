@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building a Navigation Bar using React Router
-canonical_url: 'https://hcoco1.blog/Phase-5-Final-Project-Blog/'
+canonical_url: 'https://hcoco1.github.io/hcoco1-blog/Phase-5-Final-Project-Blog/'
 date: 2023-10-07
 categories: coding
 comments: true

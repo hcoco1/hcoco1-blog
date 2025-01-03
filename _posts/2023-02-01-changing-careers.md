@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Changing careers"
-canonical_url: 'https://hcoco1.blog/changing-careers/'
+canonical_url: 'https://hcoco1.github.io/hcoco1-blog/changing-careers/'
 date:   2023-02-01
 categories: world
 comments: true
